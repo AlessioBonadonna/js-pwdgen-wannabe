@@ -1,0 +1,20 @@
+body{
+    background-color: #2E3D4C;
+    padding : 0 6em;
+}
+
+h1{
+    font-size: 4em;
+    color:#F2CD61;
+
+}
+
+p{
+    color:white;
+    font-size: 2em;
+    margin: 0 auto;
+
+}
+.import{
+    color:#DB524D;
+}
